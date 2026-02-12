@@ -1,14 +1,14 @@
-🔧 Mechanic Shop Management System
+## 🔧 Mechanic Shop Management System
 
-📖 Overview
+## 📖 Overview
 
 Mechanic Shop is a comprehensive B2B web application designed to digitize and streamline the daily operations of automotive workshops.
 
 The system replaces traditional paper-based workflows with a centralized digital solution, focusing on solving critical business pain points such as scheduling conflicts, double-booking, and inventory tracking. It is built with a strong focus on Domain-Driven Design (DDD) and Clean Architecture principles to ensure scalability and maintainability.
 
-🚀 Key Features
+## 🚀 Key Features
 
-🛠 Operational Management
+## 🛠 Operational Management
 
 Work Order Lifecycle: Full tracking of repair jobs from Scheduled → InProgress → Completed.
 
@@ -16,29 +16,29 @@ Smart Scheduling: An intelligent algorithm that prevents double-booking of techn
 
 Auto-Cancellation: Background jobs to automatically cancel "No-Show" appointments after 15 minutes.
 
-👥 Customer & Vehicle Management
+## 👥 Customer & Vehicle Management
 
 Centralized Database: Store and manage customer profiles and vehicle history (VIN, Make, Model).
 
 Service History: View past repairs and invoices for any specific vehicle.
 
-💰 Billing & Invoicing
+## 💰 Billing & Invoicing
 
 Automated Invoicing: Generate invoices automatically upon work order completion.
 
 Labor & Parts Calculation: Accurate calculation of total costs based on labor hours and parts used.
 
-📊 Dashboard & Analytics
+## 📊 Dashboard & Analytics
 
 Real-time Insights: View active jobs, completed orders, and daily revenue stats.
 
 Performance Metrics: Monitor technician utilization and workshop efficiency.
 
-🏗️ Architecture & Technologies
+## 🏗️ Architecture & Technologies
 
 This project is built using Clean Architecture to separate concerns and ensure testability.
 
-Backend: ASP.NET Core 8 Web API
+Backend: ASP.NET Core 9 Web API
 
 Database: Microsoft SQL Server (EF Core Code-First)
 
@@ -58,7 +58,7 @@ Docker: Containerized database and application.
 
 GitHub Actions: CI/CD pipeline for automated building and testing.
 
-📂 Project Structure
+## 📂 Project Structure
 
 The solution follows the Clean Architecture layers:
 
@@ -72,15 +72,15 @@ Api: The entry point (Controllers) and presentation layer.
 
 🏃 Getting Started
 
-Prerequisites
+## Prerequisites
 
-.NET 8 SDK
+.NET 9 SDK
 
 Docker Desktop (Optional, for SQL Server)
 
 SQL Server (Local or Container)
 
-Installation
+## Installation
 
 Clone the repository
 
@@ -104,7 +104,7 @@ Run the Application
 dotnet run
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a Pull Request.
 
@@ -118,7 +118,7 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📝 License
+## 📝 License
 
 Distributed under the MIT License. See LICENSE for more information.
 
