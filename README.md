@@ -122,4 +122,10 @@ Open a Pull Request
 
 Distributed under the MIT License. See LICENSE for more information.
 
-Developed by [Tareq Almahameed]([(https://www.linkedin.com/in/tareq-almahameed-37876227a?utm_source=share_via&utm_content=profile&utm_medium=member_android)])
+Developed by Tareq Almahameed
+
+## 📫 Contact
+
+Tareq Almahameed - [**LinkedIn**](https://www.linkedin.com/in/tareq-almahameed) - [**Email**](mailto:tareqalmahameed543@gmail.com)
+
+Project Link: [https://github.com/tareq-11/MechanicShop](https://github.com/tareq-11/MechanicShop)
