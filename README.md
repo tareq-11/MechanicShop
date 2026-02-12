@@ -122,4 +122,4 @@ Open a Pull Request
 
 Distributed under the MIT License. See LICENSE for more information.
 
-Developed by Tareq Almahameed
+Developed by [Tareq Almahameed]([url](https://www.linkedin.com/in/tareq-almahameed-37876227a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
