@@ -2,5 +2,4 @@ namespace MechanicShop.Application.SubcutaneousTests.Features.RepairTasks.Querie
 
 public class GetRepairTaskByIdQueryValidatorTests
 {
-    // TODO: Implement tests following the pattern from existing tests
 }

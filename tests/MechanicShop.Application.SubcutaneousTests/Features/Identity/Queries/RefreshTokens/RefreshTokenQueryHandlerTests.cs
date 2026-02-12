@@ -2,5 +2,4 @@ namespace MechanicShop.Application.SubcutaneousTests.Features.Identity.Queries.R
 
 public class RefreshTokenQueryHandlerTests
 {
-    // TODO: Implement tests following the pattern from existing tests
 }

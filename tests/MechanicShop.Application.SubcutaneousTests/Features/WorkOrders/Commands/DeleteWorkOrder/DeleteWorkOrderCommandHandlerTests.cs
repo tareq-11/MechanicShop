@@ -2,5 +2,4 @@ namespace MechanicShop.Application.SubcutaneousTests.Features.WorkOrders.Command
 
 public class DeleteWorkOrderCommandHandlerTests
 {
-    // TODO: Implement tests following the pattern from existing tests
 }

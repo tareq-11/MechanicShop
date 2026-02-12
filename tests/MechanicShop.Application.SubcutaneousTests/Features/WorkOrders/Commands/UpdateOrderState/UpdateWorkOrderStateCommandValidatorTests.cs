@@ -2,5 +2,4 @@ namespace MechanicShop.Application.SubcutaneousTests.Features.WorkOrders.Command
 
 public class UpdateWorkOrderStateCommandValidatorTests
 {
-    // TODO: Implement tests following the pattern from existing tests
 }

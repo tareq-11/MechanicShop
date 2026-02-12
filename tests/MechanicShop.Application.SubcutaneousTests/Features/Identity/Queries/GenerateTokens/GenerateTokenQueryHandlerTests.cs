@@ -2,5 +2,4 @@ namespace MechanicShop.Application.SubcutaneousTests.Features.Identity.Queries.G
 
 public class GenerateTokenQueryHandlerTests
 {
-    // TODO: Implement tests following the pattern from existing tests
 }
